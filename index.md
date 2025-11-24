@@ -10,3 +10,10 @@ Well my commit message is to have a better future.
 
 # Images 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+<img src='https://octodex.github.com/images/yaktocat.png'>
+
+# Add a code example
+``` javascript
+var myVar = "Hello, World!";
+```
