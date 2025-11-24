@@ -17,3 +17,8 @@ Well my commit message is to have a better future.
 ``` javascript
 var myVar = "Hello, World!";
 ```
+
+# Make a task list
+- [ ] Open pull request
+- [ ] Edit your file
+- [ ] Commit changes
