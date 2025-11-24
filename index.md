@@ -7,3 +7,6 @@
 
 
 Well my commit message is to have a better future.
+
+# Images 
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
